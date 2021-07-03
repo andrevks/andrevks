@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about Compilers, creating a simple programming language and using JDBC**
 
-- 🤝 I’m looking for help with **coding interview problems**
+- 🤝 I’m looking for help with **coding interview challenges**
 
 - 💬 Ask me about **Algorithms and data structures**
 
