@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Geraldo</h1>
 <h3 align="center">A passionate Computer Enginnering student from Brazil</h3>
 
-- 🔭 I’m currently researching on **Smart Grid's security**
-
-- 🌱 I’m currently learning **about Compilers, creating a simple programming language and using JDBC**
+- 🌱 I’m currently learning **backend development with Nest.js**
 
 - 🤝 I’m looking for help with **coding interview challenges**
 
