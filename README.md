@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm André Geraldo</h1>
 <h3 align="center">A passionate Computer Enginnering student from Brazil</h3>
 
-- 🌱 I’m currently learning **backend development with Nest.js**
+- 🌱 I’m currently learning **Machine Learning using Python**
 
-- 🤝 I’m looking for help with **coding interview challenges**
+- 🤝 I’m looking for help with **Machine learning project ideas**
 
-- 💬 Ask me about **Algorithms and data structures**
+- 💬 Ask me about **Python**
 
 - ⚡ Fun fact **I'm endless curious to learn**
 
