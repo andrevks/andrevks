@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm André Geraldo</h1>
 <h3 align="center">A passionate Computer Enginnering student from Brazil</h3>
 
-- 🌱 I’m currently learning **Machine Learning using Python**
+- 🌱 I’m currently learning **backend development using Nodejs**
 
-- 🤝 I’m looking for help with **Machine learning project ideas**
-
-- 💬 Ask me about **Python**
+- 🤝 I’m looking for help with **project ideas**
 
 - ⚡ Fun fact **I'm endless curious to learn**
 
