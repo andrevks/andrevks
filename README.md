@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects with NextJS & AdonisJS**
 
-- 📝 I regularly write articles on [https://beyondco.substack.com/?utm_source=%2Fprofile%2F93578225-andre-geraldo&utm_medium=reader2-nav](https://beyondco.substack.com/?utm_source=%2Fprofile%2F93578225-andre-geraldo&utm_medium=reader2-nav)
+- 📝 I regularly write articles on [Beyond College Newsletter](https://beyondco.substack.com/?utm_source=%2Fprofile%2F93578225-andre-geraldo&utm_medium=reader2-nav)
 
 - 📫 How to reach me **learningloopbrasil@gmail.com**
 
