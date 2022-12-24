@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects with NextJS & AdonisJS**
 
-- 📖 I’m currently learning **NodeJS APIs from scratch with TDD and Clean Architecture**
+- 📖 I’m currently learning **Deep Learning Applications**
 
 - 📝 I regularly write articles for students in Portuguese on [Beyond College Newsletter](https://beyondco.substack.com/?utm_source=%2Fprofile%2F93578225-andre-geraldo&utm_medium=reader2-nav)
 
