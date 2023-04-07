@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/andregp_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andregp_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andregpeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andregpeng" height="30" width="40" /></a>
-<a href="https://instagram.com/beyondcollege_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beyondcollege_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucyl4wcu3am4n6jubdet4_pq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyl4wcu3am4n6jubdet4_pq" height="30" width="40" /></a>
+<a href="https://twitter.com/andreplaneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andreplaneja" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andre-planeja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-planeja" height="30" width="40" /></a>
+<a href="https://www.instagram.com/andreplaneja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreplaneja" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCYl4WcU3aM4N6JubDET4_PQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyl4wcu3am4n6jubdet4_pq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
