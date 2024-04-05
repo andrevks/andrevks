@@ -35,9 +35,6 @@
 
 <p>
   <a href="https://github.com/andrevks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrevks&show_icons=true&locale=en" alt="andrevks" />
-  </a>
-  <a href="https://github.com/andrevks">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrevks&" alt="andrevks" />
   </a>
 </p>
