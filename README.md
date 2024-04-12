@@ -3,22 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrevks&label=Profile%20views&color=0e75b6&style=flat" alt="andrevks" /> </p>
 
+I lead backend development, focusing on creating resilient microservices with NestJS and RabbitMQ for scalability and efficiency. My passion lies in mastering advanced backend technologies and delving into cloud architecture and DevOps.
 
-- 🔭 I’m currently working on **Crafting resilient Microservices with NestJS, leveraging RabbitMQ for efficient message processing. Spearheading technical decisions to architect scalable systems.**
+### What I'm Working On
+- **Building** scalable microservices architectures.
+- **Learning** advanced frameworks and cloud technologies.
 
-- 🌱 I’m currently learning **Advanced frameworks and courses to deepen my expertise in backend technologies and DevOps, with a keen interest in exploring the depths of cloud architecture and system design.**
+### Talk to Me About
+- **Node.js, Docker, Laravel**: I'm always ready to share knowledge and learn together.
+- **Anything Tech**: My curiosity drives me to explore endless technological possibilities.
 
-- 👯 I’m looking to collaborate on **Projects focused on Distributed Systems/Microservices.**
-
-- 💬 Ask me about **Node.js, Docker, Laravel - or anything tech! I'm always eager to share knowledge and learn together.**
-
-- 📫 How to reach me **Feel free to connect via email at learningloopbrasil@gmail.com**
-
-- 📝 I regularly write articles for students in Portuguese on [Beyond College Newsletter](https://beyondco.substack.com/?utm_source=%2Fprofile%2F93578225-andre-geraldo&utm_medium=reader2-nav)
-
-- 📄 Know about my experiences [CV](https://www.linkedin.com/in/andre-planeja/overlay/1635555860973/single-media-viewer/?profileId=ACoAACGmNpUBRXEXeW48v60us6ooiydHOfBv1YQ)
-
-- ⚡ Fun fact **My curiosity knows no bounds - I'm endlessly fascinated by new technologies and the endless possibilities they bring to solve complex problems.**
+### Reach Out
+- **Email**: [learningloopbrasil@gmail.com](mailto:learningloopbrasil@gmail.com)
+- **Articles**: Check out my Portuguese articles for students on [Beyond College Newsletter](https://beyondco.substack.com/?utm_source=%2Fprofile%2F93578225-andre-geraldo&utm_medium=reader2-nav)
+- **CV**: Learn about my professional journey on [LinkedIn](https://www.linkedin.com/in/andre-planeja/overlay/1635555860973/single-media-viewer/?profileId=ACoAACGmNpUBRXEXeW48v60us6ooiydHOfBv1YQ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
