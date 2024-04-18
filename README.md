@@ -16,7 +16,7 @@ I lead backend development, focusing on creating resilient microservices with Ne
 ### Reach Out
 - **Email**: [learningloopbrasil@gmail.com](mailto:learningloopbrasil@gmail.com)
 - **Articles**: Check out my Portuguese articles for students on [Beyond College Newsletter](https://beyondco.substack.com/?utm_source=%2Fprofile%2F93578225-andre-geraldo&utm_medium=reader2-nav)
-- **CV**: Learn about my professional journey on [LinkedIn](https://www.linkedin.com/in/andre-planeja/overlay/1635555860973/single-media-viewer/?profileId=ACoAACGmNpUBRXEXeW48v60us6ooiydHOfBv1YQ)
+- **CV**: Learn about my professional journey on [LinkedIn](https://www.linkedin.com/in/andre-planeja/overlay/1713452927847/single-media-viewer/?profileId=ACoAACGmNpUBRXEXeW48v60us6ooiydHOfBv1YQ)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
