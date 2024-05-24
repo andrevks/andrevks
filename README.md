@@ -10,7 +10,7 @@ I lead backend development, focusing on creating resilient microservices with Ne
 - **Learning** advanced frameworks and cloud technologies.
 
 ### Talk to Me About
-- **Node.js, Docker, Laravel**: I'm always ready to share knowledge and learn together.
+- **Node.js, Nextjs, Docker**: I'm always ready to share knowledge and learn together.
 - **Anything Tech**: My curiosity drives me to explore endless technological possibilities.
 
 ### Reach Out
