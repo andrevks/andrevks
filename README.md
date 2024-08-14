@@ -20,7 +20,6 @@ I lead backend development, focusing on creating resilient microservices with Ne
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/andreplaneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andreplaneja" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andre-planeja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreplaneja" height="30" width="40" /></a>
 <a href="https://instagram.com/andreplaneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreplaneja" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCYl4WcU3aM4N6JubDET4_PQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="andregeraldo6556" height="30" width="40" /></a>
