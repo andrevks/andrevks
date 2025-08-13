@@ -29,8 +29,7 @@ I'm a Fullstack Engineer with 5+ years of experience building scalable backend s
 ### Contact
 
 - **Email**: [andre.geraldo.dev@gmail.com](mailto:andre.geraldo.dev@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/andre-planeja](https://linkedin.com/in/andre-planeja)  
-- **YouTube**: [@andregeraldo6556](https://www.youtube.com/channel/UCYl4WcU3aM4N6JubDET4_PQ)
+- **LinkedIn**: [linkedin.com/in/andre-planeja](https://linkedin.com/in/andre-planeja)
 
 ---
 
@@ -38,7 +37,7 @@ I'm a Fullstack Engineer with 5+ years of experience building scalable backend s
 
 <p align="left">
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="NestJS" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/></a>
