@@ -1,0 +1,192 @@
+<svg width="1600" height="480" viewBox="0 0 1600 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">André Geraldo premium animated engineering banner</title>
+  <desc id="desc">Dark animated SVG banner with subtle blue dataflow network, grid, waveform accents, and centered professional text.</desc>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1600" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="55%" stop-color="#09111F"/>
+      <stop offset="100%" stop-color="#050913"/>
+    </linearGradient>
+
+    <radialGradient id="glowLeft" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 240) rotate(0) scale(420 260)">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowRight" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1380 220) rotate(0) scale(420 260)">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.05"/>
+      <stop offset="50%" stop-color="#67E8F9" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.05"/>
+    </linearGradient>
+
+    <linearGradient id="waveGrad" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#0EA5E9" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="#67E8F9" stop-opacity="0.24"/>
+      <stop offset="80%" stop-color="#3B82F6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="textGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0.75  0 0 1 0 1  0 0 0 0.25 0"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M 64 0 L 0 0 0 64" fill="none" stroke="#8AB4FF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+
+    <pattern id="microGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#7DD3FC" stroke-opacity="0.03" stroke-width="1"/>
+    </pattern>
+
+    <symbol id="node" viewBox="0 0 12 12">
+      <circle cx="6" cy="6" r="2.4" fill="#A5F3FC"/>
+      <circle cx="6" cy="6" r="4.8" stroke="#67E8F9" stroke-opacity="0.4" stroke-width="1" fill="none"/>
+    </symbol>
+
+    <symbol id="pulse" viewBox="0 0 20 20">
+      <circle cx="10" cy="10" r="3.5" fill="#A5F3FC"/>
+      <circle cx="10" cy="10" r="7" stroke="#67E8F9" stroke-opacity="0.45" stroke-width="1.2" fill="none">
+        <animate attributeName="r" values="4;8;4" dur="3.6s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.15;0.55;0.15" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+    </symbol>
+  </defs>
+
+  <rect width="1600" height="480" fill="url(#bgGrad)"/>
+  <rect width="1600" height="480" fill="url(#grid)"/>
+  <rect width="1600" height="480" fill="url(#microGrid)" opacity="0.65"/>
+  <rect width="1600" height="480" fill="url(#glowLeft)"/>
+  <rect width="1600" height="480" fill="url(#glowRight)"/>
+
+  <g opacity="0.14">
+    <path d="M0 106C120 88 160 128 260 120C350 112 420 78 520 88C650 102 710 156 845 150C980 144 1060 86 1178 92C1300 98 1400 138 1600 114" stroke="url(#waveGrad)" stroke-width="2" fill="none"/>
+    <path d="M0 376C90 348 166 356 256 332C360 304 455 266 576 282C690 298 742 354 864 344C1008 332 1056 274 1182 280C1328 286 1430 344 1600 322" stroke="url(#waveGrad)" stroke-width="2" fill="none"/>
+  </g>
+
+  <g opacity="0.34" stroke="#67E8F9" stroke-width="1.25" fill="none">
+    <path d="M84 112 L204 84 L294 130 L368 104 L458 152"/>
+    <path d="M84 356 L194 326 L284 372 L378 334 L476 386"/>
+    <path d="M1126 112 L1214 92 L1306 126 L1412 84 L1512 132"/>
+    <path d="M1120 354 L1228 316 L1312 362 L1414 328 L1514 372"/>
+    <path d="M244 84 L244 326" opacity="0.18"/>
+    <path d="M1310 126 L1310 362" opacity="0.18"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <use href="#node" x="78" y="106"/>
+    <use href="#node" x="198" y="78"/>
+    <use href="#pulse" x="286" y="120"/>
+    <use href="#node" x="362" y="98"/>
+    <use href="#node" x="452" y="146"/>
+
+    <use href="#node" x="78" y="350"/>
+    <use href="#pulse" x="188" y="320"/>
+    <use href="#node" x="278" y="366"/>
+    <use href="#node" x="372" y="328"/>
+    <use href="#node" x="470" y="380"/>
+
+    <use href="#node" x="1120" y="106"/>
+    <use href="#node" x="1208" y="86"/>
+    <use href="#pulse" x="1300" y="118"/>
+    <use href="#node" x="1406" y="78"/>
+    <use href="#node" x="1506" y="126"/>
+
+    <use href="#node" x="1114" y="348"/>
+    <use href="#pulse" x="1222" y="310"/>
+    <use href="#node" x="1306" y="356"/>
+    <use href="#node" x="1408" y="322"/>
+    <use href="#node" x="1508" y="366"/>
+  </g>
+
+  <g opacity="0.8">
+    <circle r="4" fill="#A5F3FC" filter="url(#softGlow)">
+      <animateMotion dur="6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#flow1"/>
+      </animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#67E8F9" filter="url(#softGlow)">
+      <animateMotion dur="7.5s" begin="1.2s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#flow2"/>
+      </animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="7.5s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#93C5FD" filter="url(#softGlow)">
+      <animateMotion dur="6.8s" begin="0.6s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#flow3"/>
+      </animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="6.8s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#67E8F9" filter="url(#softGlow)">
+      <animateMotion dur="8.2s" begin="2.1s" repeatCount="indefinite" rotate="auto">
+        <mpath href="#flow4"/>
+      </animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" dur="8.2s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path id="flow1" d="M84 112 L204 84 L294 130 L368 104 L458 152" fill="none" stroke="url(#lineGrad)" stroke-width="2.2" stroke-linecap="round"/>
+  <path id="flow2" d="M84 356 L194 326 L284 372 L378 334 L476 386" fill="none" stroke="url(#lineGrad)" stroke-width="2.2" stroke-linecap="round"/>
+  <path id="flow3" d="M1126 112 L1214 92 L1306 126 L1412 84 L1512 132" fill="none" stroke="url(#lineGrad)" stroke-width="2.2" stroke-linecap="round"/>
+  <path id="flow4" d="M1120 354 L1228 316 L1312 362 L1414 328 L1514 372" fill="none" stroke="url(#lineGrad)" stroke-width="2.2" stroke-linecap="round"/>
+
+  <g opacity="0.2">
+    <text x="116" y="62" fill="#7DD3FC" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="2.8">INPUT</text>
+    <text x="246" y="62" fill="#7DD3FC" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="2.8">SYSTEMS</text>
+    <text x="1300" y="62" fill="#7DD3FC" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="2.8">INTELLIGENCE</text>
+    <text x="1428" y="62" fill="#7DD3FC" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="2.8">IMPACT</text>
+  </g>
+
+  <g transform="translate(800 216)" text-anchor="middle">
+    <text y="0" fill="#F8FAFC" font-size="54" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif" filter="url(#textGlow)">
+      André Geraldo
+      <animate attributeName="opacity" values="0.96;1;0.96" dur="5.5s" repeatCount="indefinite"/>
+    </text>
+    <text y="44" fill="#C7D2FE" font-size="17" font-weight="600" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0.5">
+      Senior Software Engineer • Applied AI • Scalable Systems • Full Stack
+    </text>
+    <text y="80" fill="#94A3B8" font-size="15" font-weight="400" font-family="Inter, Segoe UI, Arial, sans-serif">
+      Building production systems, modern platforms, and AI-powered workflows with real business impact.
+    </text>
+  </g>
+
+  <g opacity="0.12">
+    <rect x="530" y="128" width="540" height="214" rx="24" stroke="#7DD3FC" stroke-width="1.2"/>
+    <rect x="552" y="150" width="496" height="170" rx="18" stroke="#60A5FA" stroke-width="1"/>
+  </g>
+
+  <g opacity="0.2">
+    <circle cx="612" cy="374" r="1.6" fill="#7DD3FC">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="990" cy="98" r="1.6" fill="#60A5FA">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1048" cy="364" r="1.6" fill="#67E8F9">
+      <animate attributeName="opacity" values="0.2;0.65;0.2" dur="4.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="560" cy="104" r="1.6" fill="#67E8F9">
+      <animate attributeName="opacity" values="0.2;0.75;0.2" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
